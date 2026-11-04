@@ -9,5 +9,7 @@ No shell (`execFile` only); input goes through a temp file (`shortcuts run -i` t
 
 ```sh
 npm install
-claude mcp add --scope user shortcuts -- /opt/homebrew/bin/node ~/code/shortcuts-mcp/index.mjs
+claude mcp add --scope user shortcuts -- /opt/homebrew/bin/node /path/to/shortcuts-mcp/index.mjs
 ```
+
+Requires macOS 12+ and Node 18+. MIT licensed.
