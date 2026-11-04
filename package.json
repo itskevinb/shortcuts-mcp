@@ -1,0 +1,1 @@
+{"name":"shortcuts-mcp","version":"1.0.0","private":true,"type":"module","main":"index.mjs","dependencies":{"@modelcontextprotocol/sdk":"^1.32.2","zod":"^3.25.76"}}
